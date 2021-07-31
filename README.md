@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @melle-issa
-- 👀 I’m interested in website building and game making :)
-- 🌱 I’m currently learning c++ in college and HTML on my own!
-- 💞️ I’m looking for an internship in software engineering or cybersecurity
+- 👀 My interests are software engineering and website building :)
+- 🌱 Currently, I'm learning C++, HTML, and Python!
+- 💞️ I’m looking for an internship in software engineering or cybersecurity.
 - 📫 How to reach me: mhida010@urc.edu
 
 <!---
