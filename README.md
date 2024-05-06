@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @melle-issa
 - 👀 My interests are software engineering and website building :)
-- 🌱 Currently, I'm learning C++, HTML, and Python!
-- 💞️ I’m looking for an internship in software engineering or cybersecurity.
-- 📫 How to reach me: mhida010@urc.edu
+- 🌱 Persuing my Master's in Artificial Intelligence at Colorado State University Global
+- 💞️ I’m currently employed as a software engineer
+- 📫 How to reach me: melissa.hidalgo@csuglobal.edu
 
 <!---
 melle-issa/melle-issa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
